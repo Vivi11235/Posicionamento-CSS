@@ -1,0 +1,183 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color:grey;
+    position: relative;
+}
+
+#caixa1{
+    background-color:blue;
+    height: 100vh;
+    width: 50vw;
+    right:25%;
+    left:25%;
+    position:absolute;
+}
+
+#caixa2{
+    background-color:red;
+    height: 80vh;
+    width: 40vw;
+    top:10%;
+    left:10%;
+    bottom:10%;
+    right:10%;
+    position:absolute;
+}
+
+#caixa3{
+    background-color:black;
+    height: 60vh;
+    width: 30vw;
+    position:absolute;
+    top:13%;
+    left:13%;
+}
+
+#caixa4{
+    background-color:green;
+    position:absolute;
+    height: 40vh;
+    width: 20vw;
+    top:17%;
+    left:17%;
+}
+
+#caixa5{
+    background-color:yellow;
+    position:absolute;
+    height: 20vh;
+    width: 10vw;
+    top:25%;
+    left:25%;
+    bottom:25%;
+    right:25%;
+}
+
+.caixa6{
+    background-color:black;
+    height:150px;
+    width:150px;
+}
+
+.posição1{
+    float:left;
+}
+
+.posição2{
+    float:right;
+    
+}
+
+.posição3{
+   margin-top:333px;
+   float:left;
+   clear:both
+    
+}
+
+.posição4{
+    float:right;
+    margin-top:333px;
+}
+
+#texto1{
+    color:white;
+    padding:20px;
+    margin:100px 100px 50px 100px;
+    background-color:black;
+    border-radius:20px;
+    text-align:right;
+}
+
+#texto2{
+    color:white;
+    border:1px solid red;
+    padding:20px;
+    height:100px;
+    overflow: auto;
+    margin:0px 100px 100px 100px;
+    background-color:black;
+    text-align:right;
+}
+
+.blackbox{
+    background-color: black;
+    height: 123px;
+    width: 123px;
+}
+
+.box1{
+    float:left;
+}
+
+.box2{
+    float:left;
+    margin-left:5px;
+}
+
+.box3{
+    float:left;
+    margin-left:5px;
+}
+
+.box4{
+    clear:left;
+    float:left;
+    margin-top:5px;
+}
+
+.box5{
+    float:left;
+    margin-top:5px;
+    margin-left:5px;
+}
+
+.box6{
+    float:left;
+    margin-top: 5px;
+    clear:left;
+}
+
+.box7{
+    float:right;
+    margin-top:5px;
+}
+
+.box8{
+    clear:right;
+    float:right;
+    margin-top:5px;
+}
+
+.box9{
+    float:right;
+    margin-right:5px;
+    margin-top:5px;
+}
+
+.box10{
+    clear:right;
+    float:right;
+    margin-top:5px;
+}
+
+.box11{
+    float:right;
+    margin-right:5px;
+    margin-top:5px;
+}
+
+.box12{
+    float:right;
+    margin-right:5px;
+    margin-top:5px;
+}
+
+
+
+
+
